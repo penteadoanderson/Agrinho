@@ -1,4 +1,4 @@
-{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,12 +7,12 @@
 }
 
 :root {
-    --bg-color: #ffffff;
+    --bg-color: #d2fcc7;
     --text-color: #2c3e50;
-    --primary-color: #2ecc71; /* Verde Sustentável */
-    --secondary-color: #27ae60;
+    --primary-color: #0a853d6e; /* Verde Sustentável */
+    --secondary-color:  #13532e;
     --dark-neutral: #1a252f;
-    --light-bg: #f8f9fa;
+    --light-bg: hsl(118, 84%, 87%);
     --accent-color: #e67e22; /* Laranja para destaques */
 }
 
