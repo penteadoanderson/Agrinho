@@ -120,13 +120,13 @@ span { color: var(--secondary-color); font-weight: bold; }
 .btn-cta {
     display: inline-block;
     background-color: var(--primary-color);
-    color: rgb(14, 11, 11);
+    color: rgb(0, 0, 0);
     text-decoration: none;
     padding: 15px 35px;
     border-radius: 30px;
     font-weight: bold;
     font-size: 1.1rem;
-    box-shadow: 0 4px 15px rgba(25, 104, 15, 0.4);
+    box-shadow: 0 4px 15px rgba(25, 95, 57, 0.884);
     transition: all 0.3s;
 }
 .btn-cta:hover {
@@ -136,7 +136,7 @@ span { color: var(--secondary-color); font-weight: bold; }
 
 .btn-secondary {
     background-color: var(--accent-color);
-    color: white;
+    color: rgb(0, 0, 0);
     border: none;
     padding: 12px 25px;
     border-radius: 8px;
@@ -146,7 +146,7 @@ span { color: var(--secondary-color); font-weight: bold; }
 
 
 .dark-mode {
-    --bg-color: #121212;
+    --bg-color: #24fa11;
     --text-color: #f1f1f1;
     --light-bg: #1f1f1f;
     --dark-neutral: #ffffff;
